@@ -1,0 +1,111 @@
+[
+  {
+    "product_name_en": "Red Bean & Cream Bread",
+    "serving_size": "30g",
+    "calories_per_serving": "102 kcal",
+    "nutrition_facts": {
+      "total_fat": "3.9g",
+      "saturated_fat": "2.0g",
+      "trans_fat": "0g",
+      "cholesterol": "0mg",
+      "sodium": "86mg",
+      "total_carbohydrate": "15.1g",
+      "dietary_fiber": "0g",
+      "total_sugars": "8.9g",
+      "includes_added_sugars": "0g",
+      "protein": "1.6g",
+      "vitamin_d": "0mcg",
+      "calcium": "0mg",
+      "iron": "0mg",
+      "potassium": "0mg"
+    },
+    "allergen_statement": "Contains: Milk, Soy (Inferred from 'Cream' ingredient)",
+    "marketing_claims": [
+      "No Artificial Flavors",
+      "No Preservatives"
+    ],
+    "original_code": "8801068405453"
+  },
+  {
+    "product_name_en": "Cereal Chocolate",
+    "serving_size": "30g",
+    "calories_per_serving": "155 kcal",
+    "nutrition_facts": {
+      "total_fat": "8.6g",
+      "saturated_fat": "5.7g",
+      "trans_fat": "0g",
+      "cholesterol": "0mg",
+      "sodium": "100mg",
+      "total_carbohydrate": "17.9g",
+      "dietary_fiber": "0g",
+      "total_sugars": "11.4g",
+      "includes_added_sugars": "11.4g",
+      "protein": "2.15g",
+      "vitamin_d": "0mcg",
+      "calcium": "0mg",
+      "iron": "0mg",
+      "potassium": "0mg"
+    },
+    "allergen_statement": "Contains: Gluten, Peanuts",
+    "marketing_claims": [
+      "No Artificial Flavors",
+      "No Preservatives"
+    ],
+    "original_code": "8801062871131"
+  },
+  {
+    "product_name_en": "Mini Pusho BBQ Flavor",
+    "serving_size": "30g",
+    "calories_per_serving": "76.5 kcal",
+    "nutrition_facts": {
+      "total_fat": "2.7g",
+      "saturated_fat": "1.2g",
+      "trans_fat": "0g",
+      "cholesterol": "0mg",
+      "sodium": "156mg",
+      "total_carbohydrate": "11.4g",
+      "dietary_fiber": "0g",
+      "total_sugars": "0g",
+      "includes_added_sugars": "0g",
+      "protein": "1.5g",
+      "vitamin_d": "0mcg",
+      "calcium": "0mg",
+      "iron": "0mg",
+      "potassium": "0mg"
+    },
+    "allergen_statement": "Contains: Gluten, Mollusks",
+    "marketing_claims": [
+      "No Added Sugars",
+      "Low in Sugars"
+    ],
+    "original_code": "8801045525136"
+  },
+  {
+    "product_name_en": "Home Run Ball Melon Milk Flavor",
+    "serving_size": "30g",
+    "calories_per_serving": "73.5 kcal",
+    "nutrition_facts": {
+      "total_fat": "4.8g",
+      "saturated_fat": "1.8g",
+      "trans_fat": "0g",
+      "cholesterol": "0mg",
+      "sodium": "28.5mg",
+      "total_carbohydrate": "6.3g",
+      "dietary_fiber": "0g",
+      "total_sugars": "4.2g",
+      "includes_x_syrups": "0g",
+      "protein": "1.2g",
+      "vitamin_d": "0mcg",
+      "calcium": "0mg",
+      "iron": "0mg",
+      "potassium": "0mg"
+    },
+    "allergen_statement": "Contains: Gluten",
+    "marketing_claims": [
+      "No Artificial Flavors",
+      "Non-GMO",
+      "Made with Real Milk"
+    ],
+    "original_code": "8801019319532"
+  }
+]
